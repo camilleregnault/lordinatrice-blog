@@ -7,8 +7,7 @@ categories: télétravail crise remote coronavirus confinement
 
 ### Comment nous sommes passés d’un jour de remote par semaine à un plan 100% télétravail en urgence.
 
-![alt text][white_desk]
-[white_desk]: https://github.comcamilleregnault/code/lordinatrice-blog/_site/assets/images/white_desk.jpeg "Minimal white desk"
+![alt text](/assets/images/white_desk.jpeg "Minimal white desk")
 
 Jeudi 12 mars, l’Elysée annonce que le président de la République fera une allocution télévisée le soir à 20h. Au sein de l’entreprise où je travaille la décision est prise de demander à tou·te·s les salarié·e·s de ne pas revenir au bureau et de travailler de chez soi dès le lendemain.
 En fonction de ce que révélera le discours du Président, nous devrons envisager de ne plus revoir nos bureaux jusqu’à une date indéterminée.
