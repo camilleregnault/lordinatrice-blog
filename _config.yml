@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lordinatrice blog
+title: Lordinatrice
 email: lordinatrice@gmail.com
 description: # this means to ignore newlines until "baseurl:"
   Blog about Rails, remote and developer's life.
@@ -31,6 +31,10 @@ github_username:  camilleregnault
 theme: hitchens-theme
 plugins:
   - jekyll-feed
+  - jekyll-target-blank
+
+  hide_credits: true
+  # hide_search: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
