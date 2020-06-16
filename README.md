@@ -2,6 +2,8 @@
 
 
 ### made with Jekyll
+- gem install jekyll bundler
+- bundle exec jekyll server
 
 ### edit posts by using Markdown
 
